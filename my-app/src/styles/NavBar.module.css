@@ -1,0 +1,23 @@
+.NavBar {
+    background-color: #637584;
+    border: 1px solid #637584;
+    position: relative;
+    color: aliceblue;
+}
+
+.NavLink {
+    padding: 5px;
+    color: aliceblue;
+}
+
+.Active i {
+    color: darkgray;
+}
+
+.fixed-top {
+    position: relative;
+}
+
+.NavBar {
+    position: relative;
+}
